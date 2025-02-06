@@ -1,5 +1,6 @@
 # Projects
 Repo of Completed or In-Progess Projects
+
 Some projects are private for academic integrity, access avaiable upon request.
 
 ## Java
