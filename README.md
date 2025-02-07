@@ -9,6 +9,7 @@ Some projects are private for academic integrity, access avaiable upon request.
 3. Compound Interest Calculator - https://github.com/Jacob-Fisher2/Compound-Interest-Calculator
 4. Interest Paid Calculator - https://github.com/Jacob-Fisher2/Interest-Paid-Calculator
 5. Cellphone Bill Analyzer - https://github.com/Jacob-Fisher2/Cellphone-Bill-Analyzer
+6. Distance Between 2 or 3 Points Calculator - https://github.com/Jacob-Fisher2/Distance-Between-Points-Calculator
 
 
 ## Data Science
