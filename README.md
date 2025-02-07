@@ -10,6 +10,7 @@ Some projects are private for academic integrity, access avaiable upon request.
 4. Interest Paid Calculator - https://github.com/Jacob-Fisher2/Interest-Paid-Calculator
 5. Cellphone Bill Analyzer - https://github.com/Jacob-Fisher2/Cellphone-Bill-Analyzer
 6. Distance Between 2 or 3 Points Calculator - https://github.com/Jacob-Fisher2/Distance-Between-Points-Calculator
+7. Collection Manager for Books and Games - https://github.com/Jacob-Fisher2/Book-and-Game-Collection-Manager
 
 
 ## Data Science
