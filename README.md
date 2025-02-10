@@ -19,6 +19,7 @@ Some projects are private for academic integrity, access avaiable upon request.
 13. Queues with War Card Game Simulator - https://github.com/Jacob-Fisher2/War-Card-Game-Simulator
 14. Hash Table Based Caesar Cipher - https://github.com/Jacob-Fisher2/Modified-Caesar-Cipher
 15. Chaining with a Word Count & Frequency Evalualtor - https://github.com/Jacob-Fisher2/Word-Count-Evaluator
+16. Binary Search Tree Sudoku Solution Helper - https://github.com/Jacob-Fisher2/Sudoku-Solution-Helper
 
 
 ## Data Science
