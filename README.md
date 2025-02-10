@@ -15,6 +15,7 @@ Some projects are private for academic integrity, access avaiable upon request.
 9. Java Collection ArrayList & Data Persitance - https://github.com/Jacob-Fisher2/Better-Game-And-Book-Shelving
 10. Singly Linked List Reading Tracker - https://github.com/Jacob-Fisher2/Reading-Tracker
 11. Doubly Linked List Reading Tracker - https://github.com/Jacob-Fisher2/Better-Reading-Tracker
+12. Understanding the Stack & Basic Image Editor - https://github.com/Jacob-Fisher2/Simple-Image-Editor
 
 
 ## Data Science
