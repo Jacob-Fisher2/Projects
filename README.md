@@ -18,6 +18,7 @@ Some projects are private for academic integrity, access avaiable upon request.
 12. Understanding the Stack & Basic Image Editor - https://github.com/Jacob-Fisher2/Simple-Image-Editor
 13. Queues with War Card Game Simulator - https://github.com/Jacob-Fisher2/War-Card-Game-Simulator
 14. Hash Table Based Caesar Cipher - https://github.com/Jacob-Fisher2/Modified-Caesar-Cipher
+15. Chaining with a Word Count & Frequency Evalualtor - https://github.com/Jacob-Fisher2/Word-Count-Evaluator
 
 
 ## Data Science
