@@ -16,6 +16,7 @@ Some projects are private for academic integrity, access avaiable upon request.
 10. Singly Linked List Reading Tracker - https://github.com/Jacob-Fisher2/Reading-Tracker
 11. Doubly Linked List Reading Tracker - https://github.com/Jacob-Fisher2/Better-Reading-Tracker
 12. Understanding the Stack & Basic Image Editor - https://github.com/Jacob-Fisher2/Simple-Image-Editor
+13. Queues with War Card Game Simulator - https://github.com/Jacob-Fisher2/War-Card-Game-Simulator
 
 
 ## Data Science
