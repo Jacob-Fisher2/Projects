@@ -21,6 +21,7 @@ Some projects are private for academic integrity, access avaiable upon request.
 15. Chaining with a Word Count & Frequency Evalualtor - https://github.com/Jacob-Fisher2/Word-Count-Evaluator
 16. Binary Search Tree Sudoku Solution Helper - https://github.com/Jacob-Fisher2/Sudoku-Solution-Helper
 17. Recursive Binary Search Tree Farm Simulator - https://github.com/Jacob-Fisher2/Binary-Search-Tree
+18. Common Sort Effiency Analyzer - https://github.com/Jacob-Fisher2/Sort-Analyzer
 
 
 ## Data Science
