@@ -28,3 +28,4 @@ Some projects are private for academic integrity, access avaiable upon request.
 
 ## Web Dev
 1. Basics of HTML and Web Structure - https://github.com/Jacob-Fisher2/Mock-Personal-Website
+2. Mock Training Conference Website to Learn HTML, CSS, Javascript, SQLite - https://github.com/Jacob-Fisher2/Training-Conference-Website
