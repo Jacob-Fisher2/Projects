@@ -27,3 +27,4 @@ Some projects are private for academic integrity, access avaiable upon request.
 ## Data Science
 
 ## Web Dev
+1. Basics of HTML and Web Structure - https://github.com/Jacob-Fisher2/Mock-Personal-Website
