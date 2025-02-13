@@ -23,6 +23,7 @@ Some projects are private for academic integrity, access avaiable upon request.
 17. Recursive Binary Search Tree Farm Simulator - https://github.com/Jacob-Fisher2/Binary-Search-Tree
 18. Common Sort Effiency Analyzer - https://github.com/Jacob-Fisher2/Sort-Analyzer
 19. Simple Text File Scanner - https://github.com/Jacob-Fisher2/Scanner
+20. Predictive Parser - https://github.com/Jacob-Fisher2/Predictive-Parser
 
 
 ## Data Science
