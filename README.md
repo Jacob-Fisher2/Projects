@@ -27,6 +27,7 @@ Some projects are private for academic integrity, access avaiable upon request.
 
 
 ## Data Science
+1. SQL Project - https://github.com/Jacob-Fisher2/Coffee-Shop-DB
 
 ## Web Dev
 1. Basics of HTML and Web Structure - https://github.com/Jacob-Fisher2/Mock-Personal-Website
