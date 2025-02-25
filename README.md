@@ -1,7 +1,7 @@
 # Projects
 Repo of Completed or In-Progess Projects
 
-Some projects are private for academic integrity, access avaiable upon request.
+Some projects are private for academic integrity, access avaiable upon [request](https://docs.google.com/forms/d/e/1FAIpQLSfc0PyFPTH7hxI5kEIfS3QYpz_mgFcBfoJR-PzlN9yCok_RqQ/viewform?usp=header).
 
 ## Java
 1. Trip Calculator - https://github.com/Jacob-Fisher2/Trip-Calculator
